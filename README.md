@@ -19,5 +19,14 @@ It is a classification Problem where we have to predict whether a loan would be 
   - RandomForest Model
 
 ## Results of All models:
+- Model Evaluation Metrics
 
+  ![Evaluation Metrics table](https://github.com/Rahul8959/Loan-Prediction/blob/main/Results%20images/All%20Models%20results.jpg)
+
+- ROC_AUC curve of all Models
+  
+  <img src="https://github.com/Rahul8959/Loan-Prediction/blob/main/Results%20images/ROC_AUC_Curve.jpg" alt="GitHub Logo" width="550" height="400">
+- Barplot of Evaluation Metrics for Different Models
+
+  ![All_Models_results](https://github.com/Rahul8959/Loan-Prediction/blob/main/Results%20images/Bar_plot_of_results.png)
 
